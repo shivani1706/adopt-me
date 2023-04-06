@@ -1,0 +1,122 @@
+.pet-image {
+  background: 
+    
+    /* bottom, image */ url("../public/Images/download11.jpeg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.pet-image1 {
+  background: 
+    
+    /* bottom, image */ url("../public/Images/download10.jpeg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.pet-image2 {
+  background: 
+    
+    /* bottom, image */ url("../public/Images/download6.jpeg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.pet-image3 {
+  background: 
+    
+    /* bottom, image */ url("../public/Images/download2.jpeg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.pet-image4 {
+  background: 
+    
+    /* bottom, image */ url("../public/Images/download4.jpeg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.pet-image5 {
+  background: 
+    
+    /* bottom, image */ url("../public/Images/download10.jpeg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.pet-image6 {
+  background: 
+    
+    /* bottom, image */ url("../public/Images/download5.jpeg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bgdogcolor{
+  background-color: #e2e5ec;
+}
+.fa-heart{
+  color: #ff3385;
+  
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.fa-twitter {
+  color: white;
+}
+.fa-twitter:hover {
+  color: #1da1f2;
+}
+.fa-youtube {
+  color: white;
+}
+.fa-youtube:hover {
+  color: #ff0000;
+}
+.fa-linkedin-in {
+  color: white;
+}
+.fa-linkedin-in:hover {
+  color: #2867b2;
+}
+.fa-facebook-f {
+  color: white;
+}
+.fa-facebook-f:hover {
+  color: #4267b2;
+}
