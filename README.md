@@ -1,5 +1,35 @@
 Link: https://adopt-me-gamma.vercel.app
 
+# ADOPT_ME ( A React and Firebase based pet adoption website )
+----
+
+
+
+#### Clone
+
+- Clone this repo to your local machine.
+
+#### Run server locally
+
+```shell
+$ npm install
+$ npm start
+```
+> Go to localhost:3000
+
+---
+
+## Features 📋
+⚡️ SignUp and SignIn option.\
+⚡️ Google SignUp and SignIn option.\
+⚡️ Adopt pet, view detailed information of pet and user who has uploaded it.\
+⚡️ Filter songs based on zip code and animal category.\
+⚡️ Request pets.\
+⚡️ Upload pets of your locality to give them a home.\
+
+
+
+
 # adopt-me
 An initiative to adopt stray animals as pets instead of buying them
 
