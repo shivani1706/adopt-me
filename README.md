@@ -2,7 +2,7 @@ Link: https://adopt-me-gamma.vercel.app
 
 # ADOPT_ME ( A React and Firebase based pet adoption website )
 ----
-
+With Adopt-Me, I set out to create a pet adoption platform that is both user-friendly and comprehensive in its features. Through my expertise in full-stack development, I built a site that includes authentication, pet uploading and requesting, and sophisticated search functionality by zip code and animal category. The platform enables users to find the perfect pet with ease and make a meaningful impact in their community.
 
 
 #### Clone
