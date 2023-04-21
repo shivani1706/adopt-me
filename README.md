@@ -1,4 +1,5 @@
-Link: https://adopt-me-gamma.vercel.app
+Link: https://pet-adoption-d564c.web.app
+
 
 # ADOPT_ME ( A React and Firebase based pet adoption website )
 ----
@@ -23,9 +24,9 @@ $ npm start
 ⚡️ SignUp and SignIn option.\
 ⚡️ Google SignUp and SignIn option.\
 ⚡️ Adopt pet, view detailed information of pet and user who has uploaded it.\
-⚡️ Filter songs based on zip code and animal category.\
+⚡️ Filter pets based on zip code and animal category.\
 ⚡️ Request pets.\
-⚡️ Upload pets of your locality to give them a home.\
+⚡️ Upload pets of your locality to give them a home.
 
 
 
